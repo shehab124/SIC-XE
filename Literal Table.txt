@@ -1,0 +1,5 @@
+Literal Table
+------------
+Literal	Address
+=C'EOF'	0037
+=X'05'	1080
